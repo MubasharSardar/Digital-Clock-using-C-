@@ -1,2 +1,2 @@
-# Digital-Clock-using-C#-
+# Digital-Clock-using-C#
 Simple Digital Clock Build with C#
